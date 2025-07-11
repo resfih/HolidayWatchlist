@@ -1,1 +1,15 @@
+[
+  {
+    "Username": "alice@example.com",
+    "Location": "London",
+    "StartDate": "2025-07-15",
+    "EndDate": "2025-07-25"
+  },
+  {
+    "Username": "bob@example.com",
+    "Location": "New York",
+    "StartDate": "2025-08-01",
+    "EndDate": "2025-08-10"
+  }
+]
 
